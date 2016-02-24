@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+header {
+	background-color: #e6e6e6;
+	border: 2px solid gray;
+	height: 200px;
+	margin: 5% 5% 0px 5%;
+}
+.left {
+	background-color: #e6e6e6;
+	border: 2px solid gray;
+	width: 18%;
+	height: 500px;
+	margin: 2% 2% 2% 5%;
+	float: left;
+}
+main {
+	background-color: #e6e6e6;
+	border: 2px solid gray;
+	width: 45%;
+	height: 500px;
+	margin: 2% 2% 2% 0%;
+	float: left;
+}
+.right {
+	background-color: #e6e6e6;
+	border: 2px solid gray;
+	width: 22%;
+	height: 500px;
+	margin: 2% 5% 2% 0%;
+	float: left;
+}
+footer {
+	background-color: #e6e6e6;
+	border: 2px solid gray;
+	height: 200px;
+	margin: 2% 5% 2% 5%;
+	clear: both;
+}
