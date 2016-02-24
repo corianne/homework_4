@@ -1,0 +1,48 @@
+header {
+  	background-color: red;
+    height:33%;
+    padding-top: 1px;
+}
+.header {
+  background-color: #ffad99;
+  padding: 20px 20px 100px 10px;
+  border: 1px solid black;
+  margin: 10px;
+}
+main {
+  background-color: yellow;
+  height: 33%;
+  width: 60%;
+  float: left;
+}
+.main {
+  background-color: #ffffb3;
+  padding: 20px 20px 100px 10px;
+  border: 1px solid black;
+  margin: 10px;
+  height: 100%;
+}
+aside {
+	background-color: green;
+	height: 33%;
+  width: 40%;
+  float: left;
+}
+.sidebar {
+  background-color: #aaffaa;
+  padding: 20px 20px 100px 10px;
+  border: 1px solid black;
+  margin: 10px; 
+}
+footer {
+	background-color: blue;
+  clear: both;
+  height: 33%;
+  padding-top: 1px;
+}
+.footer {
+  background-color: #b3c6ff;
+  padding: 20px 20px 100px 10px;
+  border: 1px solid black;
+  margin: 10px;
+}
